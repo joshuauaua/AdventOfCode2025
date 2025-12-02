@@ -1,0 +1,15 @@
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net8.0/AdventOfCode
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net8.0/AdventOfCode.deps.json
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net8.0/AdventOfCode.runtimeconfig.json
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net8.0/AdventOfCode.dll
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net8.0/AdventOfCode.pdb
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.AssemblyInfoInputs.cache
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.AssemblyInfo.cs
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.csproj.CoreCompileInputs.cache
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.dll
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net8.0/refint/AdventOfCode.dll
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.pdb
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.genruntimeconfig.cache
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net8.0/ref/AdventOfCode.dll
+/Users/joshuang/Desktop/Programming/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net8.0/inputs.txt
